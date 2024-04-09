@@ -52,5 +52,7 @@ public class ReserveController {
         List<TicketVO> tickets = reserveService.getTicketsByDispatchNo(dispatchNo);
         return tickets;
     }
+
     //test
+
 }
