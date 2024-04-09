@@ -54,5 +54,5 @@ public class ReserveController {
     }
 
     //test
-    //합친게 여기 있어.22
+    //합친게 여기 있어.
 }
