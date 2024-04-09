@@ -52,4 +52,5 @@ public class ReserveController {
         List<TicketVO> tickets = reserveService.getTicketsByDispatchNo(dispatchNo);
         return tickets;
     }
+    //이번에는 다른거
 }
